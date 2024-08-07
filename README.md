@@ -1,8 +1,15 @@
-# KEB_TEAM_PROJECT (2024.08)
-<img width="263" alt="logo" src="https://github.com/user-attachments/assets/ce0ec293-d067-48e1-96bf-866d22f40edc">
+<h1>KEB_TEAM_PROJECT (2024.08)</h1>
+<div align="center">
+  <img width="550" alt="logo" src="https://github.com/user-attachments/assets/ce0ec293-d067-48e1-96bf-866d22f40edc">
+</div>
 
 ---
 ## 한국 차량 번호판 인식 및 번호 인식 모델 
+---
+## 사용 모델
+[YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
+![333755285-f9b1bec0-928e-41ce-a205-e12db3c4929a](https://github.com/user-attachments/assets/2699db02-6fe9-405a-9fb4-163de80efbd9)
+
 ---
 ## 프로젝트 구성
 - 데이터 수집: 다양한 환경에서 차량 번호판 이미지를 수집.
@@ -16,7 +23,7 @@
 
 ### 데이터 라벨링 예시)
 
-<img width="245" alt="데이터 라벨링 예시" src="https://github.com/user-attachments/assets/071bcfbe-252c-4ff6-a412-004b3880d363">
+<img width="405" alt="데이터 라벨링 예시" src="https://github.com/user-attachments/assets/071bcfbe-252c-4ff6-a412-004b3880d363">
 
 ### 모델 학습 후 예측 예시)
 
