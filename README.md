@@ -9,12 +9,14 @@
 ## 사용 모델
 [YOLOv10: Real-Time End-to-End Object Detection](https://github.com/THU-MIG/yolov10)
 ![333755285-f9b1bec0-928e-41ce-a205-e12db3c4929a](https://github.com/user-attachments/assets/2699db02-6fe9-405a-9fb4-163de80efbd9)
+[PaddleOCR PP-OCRv3](https://github.com/PaddlePaddle/PaddleOCR)
+![image](https://github.com/user-attachments/assets/f4a892c0-3b18-4db8-b21d-62079cc7fc08)
 
 ---
 ## 프로젝트 구성
 - 데이터 수집: 다양한 환경에서 차량 번호판 이미지를 수집.
 - 데이터 전처리: 이미지 정제, 증강 및 라벨링.
-- 모델 개발: YOLOv10s 모델을 사용하여 번호판 인식.
+- 모델 개발: YOLOv10s 모델을 사용하여 번호판과 번호를 검출 후 PP-OCRv3로 인식 후 텍스트 변환
 - 서비스 구축: 번호판 인식 API 개발 및 사용자 인터페이스 구현.
 ---
 ### 데이터 수집 예시)
@@ -42,6 +44,8 @@
 ---
 ## 
 ## dataset 출처
-https://universe.roboflow.com/revo-bintang/licence-palte-detection/model/6?image=https%3A%2F%2Fcdn.ikoreadaily.co.kr%2Fnews%2Fphoto%2F201803%2F265619_158351_614.jpeg
+[AI-hub CCTV 기반 차량정보 및 교통정보 계측 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71573)
+![image](https://github.com/user-attachments/assets/71ad06bd-8bdf-411e-b145-e73d850657c6)
 
-https://universe.roboflow.com/university-of-toronto-xho85/numberdetection-eppfj
+[RoboFlow](https://universe.roboflow.com/university-of-toronto-xho85/numberdetection-eppfj)
+![example](https://github.com/user-attachments/assets/9181b5d5-5885-47ef-ac89-17074040f903)
