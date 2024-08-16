@@ -32,6 +32,27 @@
 <img width="500" alt="모델 학습 후 예측 예시" src="https://github.com/user-attachments/assets/f8a021f8-75e1-4d55-8195-bd0fa9b925bd">
 
 ---
+## YOLO train result
+
+### yolov8s
+
+![results_v8s](https://github.com/user-attachments/assets/0a4a96f7-fdbb-413d-bd8e-2abea850af45)
+![mAP50-95v8s](https://github.com/user-attachments/assets/0d539e36-8363-44f6-96ab-7eebff6f05c2)
+![](https://github.com/user-attachments/assets/6695388d-24cd-4ed3-9b73-40622ca2f172)
+
+predict result
+
+![im jpg36](https://github.com/user-attachments/assets/5bf57d67-a621-4311-9cde-d4a4b0230c18)
+
+
+### yolov10s
+![results_v10s](https://github.com/user-attachments/assets/d9d4d279-92b8-41ec-b4fc-f739867a4b70)
+![v10s](https://github.com/user-attachments/assets/3ad6be25-c373-4cb6-adb6-47b17f493841)
+![](https://github.com/user-attachments/assets/15e44726-31fd-4331-899f-138d80f38660)
+
+predict result
+
+![im jpg22](https://github.com/user-attachments/assets/954a3153-7154-4a46-852c-218c0253177c)
 
 <div align=Left><h2>📚STACKS</h2></div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -41,8 +62,9 @@
 
 
 ---
-## 
+
 ## dataset 출처
+
 [AI-hub CCTV 기반 차량정보 및 교통정보 계측 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71573)
 ![image](https://github.com/user-attachments/assets/71ad06bd-8bdf-411e-b145-e73d850657c6)
 
