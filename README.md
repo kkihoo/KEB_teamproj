@@ -17,6 +17,9 @@
 - 데이터 수집: 다양한 환경에서 차량 번호판 이미지를 수집.
 - 데이터 전처리: 이미지 정제, 증강 및 라벨링.
 - 모델 개발: YOLOv10s 모델을 사용하여 번호판과 번호를 검출 후 PP-OCRv3로 인식 및 텍스트 변환
+  
+![image](https://github.com/user-attachments/assets/c6e42a2f-3358-4d8b-a0f3-171d9de3a737)
+  
 - 서비스 구축: 번호판 인식 API 개발 및 사용자 인터페이스 구현.
 ---
 ### 데이터 수집 예시)
@@ -53,6 +56,11 @@ predict result
 predict result
 
 ![im jpg22](https://github.com/user-attachments/assets/954a3153-7154-4a46-852c-218c0253177c)
+
+### project result
+
+![image](https://github.com/user-attachments/assets/a64413f6-81a1-414c-b7b0-1472d947d912)
+![image](https://github.com/user-attachments/assets/c23ecda3-a455-4dcc-a5ac-70bedf7d3701)
 
 <div align=Left><h2>📚STACKS</h2></div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
