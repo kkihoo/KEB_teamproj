@@ -1,4 +1,4 @@
-<h1>KEB_TEAM_PROJECT (2024.08)</h1>
+<h1>KEB_TEAM_PROJECT (2024.08) 'K-Softvation Showcase 참가' </h1>
 <div align="center">
   <img width="550" alt="logo" src="https://github.com/user-attachments/assets/ce0ec293-d067-48e1-96bf-866d22f40edc">
 </div>
