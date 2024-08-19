@@ -77,4 +77,6 @@ predict result
 ![image](https://github.com/user-attachments/assets/71ad06bd-8bdf-411e-b145-e73d850657c6)
 
 [RoboFlow](https://universe.roboflow.com/university-of-toronto-xho85/numberdetection-eppfj)
-![example](https://github.com/user-attachments/assets/9181b5d5-5885-47ef-ac89-17074040f903)
+<div align="left">
+  <img width="400" alt="sample" src="https://github.com/user-attachments/assets/9181b5d5-5885-47ef-ac89-17074040f903">
+</div>
